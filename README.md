@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and cloud computing 
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me firstoladipo@gmial.com
+- 📫 How to reach me firstoladipo@gmail.com
 
 <!---
 yadeenax/yadeenax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
