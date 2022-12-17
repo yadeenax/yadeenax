@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yadeenax
+- 👋 Hi, I’m @Firstoladipo
 - 👀 I’m interested in Python and cloud computing 
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on anything
